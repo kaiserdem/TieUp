@@ -13,6 +13,7 @@
 		AD79340A22198464002780E4 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD79340922198464002780E4 /* LoginVC.swift */; };
 		AD79340C221985D2002780E4 /* InsetTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD79340B221985D2002780E4 /* InsetTextField.swift */; };
 		AD79340E22199DA8002780E4 /* ShadowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD79340D22199DA8002780E4 /* ShadowView.swift */; };
+		AD7934102219A12B002780E4 /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD79340F2219A12B002780E4 /* AuthService.swift */; };
 		AD9949C8221759DC0041D563 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9949C7221759DC0041D563 /* AppDelegate.swift */; };
 		AD9949CA221759DC0041D563 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9949C9221759DC0041D563 /* FirstViewController.swift */; };
 		AD9949CC221759DC0041D563 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD9949CB221759DC0041D563 /* SecondViewController.swift */; };
@@ -31,6 +32,7 @@
 		AD79340922198464002780E4 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		AD79340B221985D2002780E4 /* InsetTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetTextField.swift; sourceTree = "<group>"; };
 		AD79340D22199DA8002780E4 /* ShadowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowView.swift; sourceTree = "<group>"; };
+		AD79340F2219A12B002780E4 /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
 		AD9949C4221759DC0041D563 /* TieUp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TieUp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD9949C7221759DC0041D563 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AD9949C9221759DC0041D563 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -136,6 +138,7 @@
 			isa = PBXGroup;
 			children = (
 				AD7933E42217620C002780E4 /* DataService.swift */,
+				AD79340F2219A12B002780E4 /* AuthService.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 				AD793408221983DF002780E4 /* AuthVC.swift in Sources */,
 				AD79340C221985D2002780E4 /* InsetTextField.swift in Sources */,
 				AD9949CC221759DC0041D563 /* SecondViewController.swift in Sources */,
+				AD7934102219A12B002780E4 /* AuthService.swift in Sources */,
 				AD79340A22198464002780E4 /* LoginVC.swift in Sources */,
 				AD79340E22199DA8002780E4 /* ShadowView.swift in Sources */,
 				AD9949C8221759DC0041D563 /* AppDelegate.swift in Sources */,
