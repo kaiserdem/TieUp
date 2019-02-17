@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>708767382658-iromq2p9e7al312u3aq2gpf5s0rre28k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.708767382658-iromq2p9e7al312u3aq2gpf5s0rre28k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCmt3N_r5iNzFnAfTmfYejq90RPy5nJXSQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>708767382658</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kaiserdem.TieUp</string>
+	<key>PROJECT_ID</key>
+	<string>tieup-80b77</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tieup-80b77.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:708767382658:ios:cd93f1fd905a75c2</string>
+	<key>DATABASE_URL</key>
+	<string>https://tieup-80b77.firebaseio.com</string>
+</dict>
+</plist>
