@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  FeedVC.swift
 //  TieUp
 //
 //  Created by Kaiserdem on 15.02.2019.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class FeedVC: UIViewController {
 
   override func viewDidLoad() {
     super.viewDidLoad()

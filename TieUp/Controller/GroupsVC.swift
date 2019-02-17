@@ -1,5 +1,5 @@
 //
-//  FirstViewController.swift
+//  GroupsVC.swift
 //  TieUp
 //
 //  Created by Kaiserdem on 15.02.2019.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class GroupsVC: UIViewController {
 
   override func viewDidLoad() {
     super.viewDidLoad()
